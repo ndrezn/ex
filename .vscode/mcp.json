@@ -1,0 +1,13 @@
+{
+	"servers": {
+		"Plotly": {
+			"url": "https://plotly-mcp.plotly.app/",
+			"type": "http"
+		},
+		"my-mcp-server-8c69a587": {
+			"url": "https://plotly-mcp.plotly.app",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
